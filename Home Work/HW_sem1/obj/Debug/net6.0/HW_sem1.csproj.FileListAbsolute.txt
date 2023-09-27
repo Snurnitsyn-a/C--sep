@@ -1,0 +1,15 @@
+D:\C# sep\Home Work\HW_sem1\bin\Debug\net6.0\HW_sem1.exe
+D:\C# sep\Home Work\HW_sem1\bin\Debug\net6.0\HW_sem1.deps.json
+D:\C# sep\Home Work\HW_sem1\bin\Debug\net6.0\HW_sem1.runtimeconfig.json
+D:\C# sep\Home Work\HW_sem1\bin\Debug\net6.0\HW_sem1.dll
+D:\C# sep\Home Work\HW_sem1\bin\Debug\net6.0\HW_sem1.pdb
+D:\C# sep\Home Work\HW_sem1\obj\Debug\net6.0\HW_sem1.csproj.AssemblyReference.cache
+D:\C# sep\Home Work\HW_sem1\obj\Debug\net6.0\HW_sem1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# sep\Home Work\HW_sem1\obj\Debug\net6.0\HW_sem1.AssemblyInfoInputs.cache
+D:\C# sep\Home Work\HW_sem1\obj\Debug\net6.0\HW_sem1.AssemblyInfo.cs
+D:\C# sep\Home Work\HW_sem1\obj\Debug\net6.0\HW_sem1.csproj.CoreCompileInputs.cache
+D:\C# sep\Home Work\HW_sem1\obj\Debug\net6.0\HW_sem1.dll
+D:\C# sep\Home Work\HW_sem1\obj\Debug\net6.0\refint\HW_sem1.dll
+D:\C# sep\Home Work\HW_sem1\obj\Debug\net6.0\HW_sem1.pdb
+D:\C# sep\Home Work\HW_sem1\obj\Debug\net6.0\HW_sem1.genruntimeconfig.cache
+D:\C# sep\Home Work\HW_sem1\obj\Debug\net6.0\ref\HW_sem1.dll
