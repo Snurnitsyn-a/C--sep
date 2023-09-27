@@ -1,4 +1,4 @@
-﻿/* Задача 1
+﻿Задача 1
 
 Console.Write("Input a number please: ");
 int number = int.Parse(Console.ReadLine());
@@ -77,4 +77,3 @@ while (x <= N)
 Console.Write("Input a three digit number: ");
 int n = int.Parse(Console.ReadLine());
 Console.WriteLine(n % 10);
-*/
