@@ -8,7 +8,7 @@ Console.WriteLine($"The square of the number is {sqr}");
 int sqr1 = Convert.ToInt32(Math.Pow(number,4));
 Console.WriteLine($"The square of the number is {sqr1}");
 
-Задача 2 
+Задача 3 
 Console.Write("Input a, please ");
 int a = int.Parse(Console.ReadLine());
 Console.Write("Input b, please ");
@@ -23,7 +23,7 @@ if (a == b * b) {
 Console.WriteLine($"The result is {result}");
 
 
-//Задача 3 
+//Задача 5 
 
 Console.Write("Input the day of the week: ");
 int number = int.Parse(Console.ReadLine());
@@ -58,7 +58,7 @@ switch (number)
 Console.WriteLine(result);
 
 
-//Задача 4 
+//Задача 7 
 
 Console.Write("Input N: ");
 int N = int.Parse(Console.ReadLine());
@@ -72,7 +72,7 @@ while (x <= N)
 }
 
 
-//Задача 5
+//Задача 9
 
 Console.Write("Input a three digit number: ");
 int n = int.Parse(Console.ReadLine());
