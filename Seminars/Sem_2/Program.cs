@@ -12,7 +12,7 @@ Write($"{num} -> {result}");
 Напишите программу, которая будет принимать на вход два числа и выводить, 
 является ли второе число кратным первому. Если второе число не кратно первому, 
 то программа выводит остаток деления.
-*/
+
 
 Console.WriteLine("Input the first number: ");
 double a = double.Parse(Console.ReadLine());
@@ -26,4 +26,21 @@ if (a%b == 0)
 else
 {
     Console.WriteLine("Nope, try again");
+}
+
+Задача 14 
+Напишите программу, которая принимает на вход 
+число и проверяет кратно ли оно одновременно 7 и 23.
+*/
+
+Console.Write("Input number: ");
+int a = int.Parse(Console.ReadLine());
+
+if (a%7==0 && a%23==0)
+{
+    Console.Write("This nummber multiple of both 7 and 23");
+}
+else
+{
+    Console.Write("Nope, try again");
 }
