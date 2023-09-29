@@ -15,7 +15,7 @@ Console.Write(result);
 645 -> 5
 78 -> третьей цифры нет
 32679 -> 6
-*/
+
 
 using System.Threading.Tasks.Dataflow;
 
@@ -34,3 +34,28 @@ else
     }
     Console.Write(a%10);
 }
+
+Задача 15: Напишите программу, которая принимает 
+на вход цифру, обозначающую день недели, и проверяет,
+ является ли этот день выходным.
+6 -> да
+7 -> да
+1 -> нет
+
+
+Console.Write("Input a number: ");
+int a = int.Parse(Console.ReadLine());
+
+if ((a == 6) || (a == 7))
+{
+    Console.Write("Yes");
+}
+else if ((a >= 1) && (a <= 5))
+{
+    Console.Write("No");
+}
+else
+{
+    Console.Write("This is not a day of the week");
+}
+*/
