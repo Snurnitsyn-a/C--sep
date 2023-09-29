@@ -1,0 +1,15 @@
+D:\C# sep\Seminars\Sem_2\bin\Debug\net6.0\Sem_2.exe
+D:\C# sep\Seminars\Sem_2\bin\Debug\net6.0\Sem_2.deps.json
+D:\C# sep\Seminars\Sem_2\bin\Debug\net6.0\Sem_2.runtimeconfig.json
+D:\C# sep\Seminars\Sem_2\bin\Debug\net6.0\Sem_2.dll
+D:\C# sep\Seminars\Sem_2\bin\Debug\net6.0\Sem_2.pdb
+D:\C# sep\Seminars\Sem_2\obj\Debug\net6.0\Sem_2.csproj.AssemblyReference.cache
+D:\C# sep\Seminars\Sem_2\obj\Debug\net6.0\Sem_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# sep\Seminars\Sem_2\obj\Debug\net6.0\Sem_2.AssemblyInfoInputs.cache
+D:\C# sep\Seminars\Sem_2\obj\Debug\net6.0\Sem_2.AssemblyInfo.cs
+D:\C# sep\Seminars\Sem_2\obj\Debug\net6.0\Sem_2.csproj.CoreCompileInputs.cache
+D:\C# sep\Seminars\Sem_2\obj\Debug\net6.0\Sem_2.dll
+D:\C# sep\Seminars\Sem_2\obj\Debug\net6.0\refint\Sem_2.dll
+D:\C# sep\Seminars\Sem_2\obj\Debug\net6.0\Sem_2.pdb
+D:\C# sep\Seminars\Sem_2\obj\Debug\net6.0\Sem_2.genruntimeconfig.cache
+D:\C# sep\Seminars\Sem_2\obj\Debug\net6.0\ref\Sem_2.dll
