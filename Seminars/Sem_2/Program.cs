@@ -31,12 +31,12 @@ else
 Задача 14 
 Напишите программу, которая принимает на вход 
 число и проверяет кратно ли оно одновременно 7 и 23.
-*/
+
 
 Console.Write("Input number: ");
 int a = int.Parse(Console.ReadLine());
 
-if (a%7==0 && a%23==0)
+if ((a % 7 == 0) && (a % 23 == 0))
 {
     Console.Write("This nummber multiple of both 7 and 23");
 }
@@ -44,3 +44,23 @@ else
 {
     Console.Write("Nope, try again");
 }
+
+Задача 16
+Напишите программу, которая принимает на вход два числа и проверяет
+является ли одно число квадратом другого
+
+
+Console.WriteLine("Input the first number: ");
+double a = double.Parse(Console.ReadLine());
+Console.WriteLine("Input the second number: ");
+double b = double.Parse(Console.ReadLine());
+
+if ((a * a == b) || (b * b == a))
+{
+    Console.WriteLine("One number is the square of the other");
+}
+else 
+{
+    Console.WriteLine("No");
+}
+*/
