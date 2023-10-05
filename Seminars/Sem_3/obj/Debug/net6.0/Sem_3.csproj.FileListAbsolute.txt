@@ -1,0 +1,15 @@
+D:\C# sep\Seminars\Sem_3\bin\Debug\net6.0\Sem_3.exe
+D:\C# sep\Seminars\Sem_3\bin\Debug\net6.0\Sem_3.deps.json
+D:\C# sep\Seminars\Sem_3\bin\Debug\net6.0\Sem_3.runtimeconfig.json
+D:\C# sep\Seminars\Sem_3\bin\Debug\net6.0\Sem_3.dll
+D:\C# sep\Seminars\Sem_3\bin\Debug\net6.0\Sem_3.pdb
+D:\C# sep\Seminars\Sem_3\obj\Debug\net6.0\Sem_3.csproj.AssemblyReference.cache
+D:\C# sep\Seminars\Sem_3\obj\Debug\net6.0\Sem_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# sep\Seminars\Sem_3\obj\Debug\net6.0\Sem_3.AssemblyInfoInputs.cache
+D:\C# sep\Seminars\Sem_3\obj\Debug\net6.0\Sem_3.AssemblyInfo.cs
+D:\C# sep\Seminars\Sem_3\obj\Debug\net6.0\Sem_3.csproj.CoreCompileInputs.cache
+D:\C# sep\Seminars\Sem_3\obj\Debug\net6.0\Sem_3.dll
+D:\C# sep\Seminars\Sem_3\obj\Debug\net6.0\refint\Sem_3.dll
+D:\C# sep\Seminars\Sem_3\obj\Debug\net6.0\Sem_3.pdb
+D:\C# sep\Seminars\Sem_3\obj\Debug\net6.0\Sem_3.genruntimeconfig.cache
+D:\C# sep\Seminars\Sem_3\obj\Debug\net6.0\ref\Sem_3.dll
