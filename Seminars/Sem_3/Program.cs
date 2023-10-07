@@ -36,7 +36,7 @@ int GetDigits2(int number) // Method 2
 чисел от 1 до N
 4 -> 24
 5 -> 120
-*/
+
 using System.Runtime.InteropServices;
 
 Console.WriteLine("Input a number please: ");
@@ -53,3 +53,22 @@ int GetFactorial(int number)
     }
     return fact;
 }
+
+Задача 3
+Напишите программу, которая выводлит массив из 8 элементов, 
+заполненный нулями и еденицами в случайном порядке
+[1,0,0,0,1,1,0,1]
+
+
+Console.WriteLine($"[{String.Join(", ", GetArray(8))}]");
+
+int[] GetArray(int size)
+{
+    int[] result = new int[size];
+    for (int i = 0; i < size; i++)
+    {
+        result[i] = new Random().Next(0,2);   
+    }
+    return result;
+}
+*/
